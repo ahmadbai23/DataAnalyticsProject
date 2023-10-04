@@ -12,5 +12,5 @@ The New York City and Limousine Commission (TLC) merupakan sebuah lembaga yang d
 5. Apakah terdapat hubungan antara lokasi pickup paling ramai dengan jenis pembayaran yang dilakukan
 6. Bagaimana hubungan antara jumlah tip dengan jumlah total pembayaran
 
-Tableau Visualization :
+Tableau Visualization :  
 https://public.tableau.com/app/profile/ahmad.baihaqi/viz/CapstoneProject2-AhmadBaihaqiHidayat/NYCTLCTrip?publish=yes
